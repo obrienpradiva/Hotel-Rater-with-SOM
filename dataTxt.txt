@@ -1,0 +1,55 @@
+440;4;48;jawa barat
+118;3;92;jawa barat
+91;4;47;jawa barat
+174;5;90;jawa tengah
+160;3;52;jawa timur
+306;4;86;bali
+475;3;59;jawa tengah
+288;3;53;jawa timur
+491;2;13;bali
+106;2;56;jawa barat
+156;4;92;jawa timur
+231;4;54;bali
+80;4;48;jawa barat
+195;4;39;jawa tengah
+204;3;47;bali
+177;2;42;jawa barat
+335;5;99;bali
+370;2;44;jawa timur
+337;3;41;jawa barat
+272;4;15;jawa timur
+160;4;49;jawa tengah
+274;4;91;bali
+166;2;66;jawa timur
+104;2;74;jawa tengah
+469;2;66;jawa barat
+185;5;42;jawa tengah
+301;2;36;jawa tengah
+440;5;75;jawa tengah
+203;4;95;jawa barat
+168;5;54;jawa timur
+337;4;10;jawa timur
+140;2;82;jakarta
+323;4;45;jawa tengah
+251;4;24;bali
+448;4;53;jawa timur
+341;2;63;jakarta
+363;4;20;jawa tengah
+323;5;21;jawa timur
+66;3;32;jawa tengah
+89;5;58;bali
+454;5;98;jawa tengah
+63;4;70;jakarta
+416;3;25;jawa tengah
+62;4;10;jakarta
+371;5;62;jawa tengah
+238;4;90;jakarta
+391;2;25;bali
+399;4;48;jakarta
+225;4;91;jakarta
+303;4;45;bali
+106;3;46;jakarta
+241;2;62;bali
+133;4;37;bali
+198;2;23;bali
+169;3;60;bali
